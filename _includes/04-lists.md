@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- cooking
+- reading
+- sports
+  - bmx
+  - skateboarding
+  - wakeboarding
+  - football
+- making music
